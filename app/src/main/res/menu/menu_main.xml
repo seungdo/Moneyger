@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_urge"
+        android:title="독촉하기"
+        android:icon="@drawable/ic_announcement_black_18dp" />
+    <item android:id="@+id/menu_delete"
+        android:title="삭제하기"
+        android:icon="@drawable/ic_delete_black_18dp"/>
+    <item android:id="@+id/menu_selectall"
+        android:title="전체선택"/>
+</menu>
